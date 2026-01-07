@@ -1,0 +1,25 @@
+{
+  "name": "chat-bot-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaShaylaM35/Chat-Bot-Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LaShaylaM35/Chat-Bot-Repo/issues"
+  },
+  "homepage": "https://github.com/LaShaylaM35/Chat-Bot-Repo#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
