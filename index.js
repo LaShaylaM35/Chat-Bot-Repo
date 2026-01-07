@@ -30,7 +30,7 @@ while (info != "exit") {
 
   console.log(result.result.response);
 }
-async function run(model, input) {
+async function run(model, msg) {
   const response = await fetch(
     `https://api.cloudflare.com/client/v4/accounts/${apiAccount}/ai/run/${model}`,
     {
